@@ -1,0 +1,42 @@
+*{
+font-family: roboto;
+box-sizing: border-box;
+}
+#container{
+width:1000px;
+position: static;
+}
+h1{
+  font-size: 25%;
+  font-weight: 600;
+  color: grey;
+}
+hr{
+    width:30%;
+  height: 6px;
+  position: relative;
+  background: grey;
+  border: rgb(38 38 38 );
+  padding-bottom: 2px;
+  right:750px;
+}
+div{
+  float: left;
+  position: relative;
+}
+.one{
+  width: 300px;
+  height: 300px;
+  position: relative;
+  margin-left: 10px;
+  overflow: auto;
+}
+
+.name1{
+  position: absolute;
+  top: 210px;
+  left:110px;
+  color: white;
+
+
+}
